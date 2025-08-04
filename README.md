@@ -24,16 +24,16 @@ An exploratory data analysis (EDA) of **13 years** of Bitcoin historical price a
 
 ## 📁 What's Inside
 
-- `Bitcoin_Price_Analysis.ipynb` – Interactive notebook with full EDA  
-- `bitcoin_vibes.pdf` – Polished static version (great for review/share)  
-- `.gitignore` – Clean repo setup
+- `Bitcoin_Price_Analysis.ipynb` : Interactive notebook with full EDA  
+- `bitcoin_vibes.pdf` : Polished static version (great for review/share)  
+- `.gitignore` : Clean repo setup
 
 ---
 
 ## 💡 Why This Project?
 
 - Analyzes Bitcoin price action from 2012–2025 using **real OHLCV data**  
-- Investigates market psychology using **volume-return correlation**  
+- Investigates market psychology using **volume - return correlation**  
 - Sharpens **EDA, time series**, and **data visualization** skills  
 - Clean, readable code and graphs suitable for resumes or interviews
 
@@ -43,18 +43,21 @@ An exploratory data analysis (EDA) of **13 years** of Bitcoin historical price a
 
 Clone the repository and open the notebook in Jupyter:
 
-```bash
+````bash
 git clone https://github.com/vaish-sm31/bitcoin-price-insights.git
 cd bitcoin-price-insights
 jupyter notebook
 
-
-Install dependencies:
-
+# Then install dependencies:
 pip install -r requirements.txt
+```
 
-Vaishnavi Shivamogga Murali
-Product Analyst | Time Series Explorer | SQL Enthusiast
-📫 Connect on LinkedIn
+## 🙋‍♀️ Author
 
-    ⭐ If you found this helpful, star the repo or connect — I’m always up for collaboration!
+**Vaishnavi Shivamogga Murali**  
+Product Analyst | Time Series Explorer | SQL Enthusiast  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/vaishsm)
+
+⭐ If you found this helpful, feel free to star the repo or connect, I’m always up for collaboration!
+
+
