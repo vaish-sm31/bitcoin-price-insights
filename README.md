@@ -1,41 +1,60 @@
 # 📊 Bitcoin Price Insights (2012–2025)
 
-This project is an end-to-end exploratory data analysis (EDA) of Bitcoin's historical price and volume data. It spans **over a decade of data** and uncovers meaningful patterns in:
-
-- 📈 Daily trends in closing price  
-- 🔄 Hourly volatility across time zones  
-- 🔍 Volume vs. price-change correlation  
-- 🚀 Best and worst-performing weeks in Bitcoin's history  
-- 🧠 Visual storytelling through Python (matplotlib, pandas)
+An exploratory data analysis (EDA) of **13 years** of Bitcoin historical price and volume data, revealing key patterns in market behavior, volatility, and investor sentiment.
 
 ---
 
-## 🛠️ Tools Used
+## 🔍 Key Insights
 
-- Python (Jupyter Notebook)
-- Pandas, Matplotlib
-- GitHub for version control and publishing
-
----
-
-## 📄 Files Included
-
-- `Bitcoin_Price_Analysis.ipynb`: Complete interactive notebook
-- `bitcoin_vibes.pdf`: Polished PDF version of the notebook
+- 📈 Daily trends in Bitcoin's closing price  
+- 🔄 Hourly volatility patterns across global time zones  
+- 📊 Volume vs. next-day price change correlation  
+- 📅 Weekly returns with top 5 gains and losses  
+- 🧠 Clean visual storytelling using Python
 
 ---
 
-## 🔥 What Makes This Cool?
+## 🛠️ Tools & Libraries
 
-- Covers **13 years of Bitcoin data** from 2012–2025  
-- Uses **real-time volatility logic** for hourly insights  
-- Correlation insights that help understand market psychology  
-- Suitable for showcasing: **EDA, storytelling, time series basics**
+- Python (Jupyter Notebook)  
+- pandas, matplotlib  
+- GitHub (for version control)
 
 ---
 
-## 🚀 How to Run This
+## 📁 What's Inside
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/vaish-sm31/bitcoin-price-insights.git
+- `Bitcoin_Price_Analysis.ipynb` – Interactive notebook with full EDA  
+- `bitcoin_vibes.pdf` – Polished static version (great for review/share)  
+- `.gitignore` – Clean repo setup
+
+---
+
+## 💡 Why This Project?
+
+- Analyzes Bitcoin price action from 2012–2025 using **real OHLCV data**  
+- Investigates market psychology using **volume-return correlation**  
+- Sharpens **EDA, time series**, and **data visualization** skills  
+- Clean, readable code and graphs suitable for resumes or interviews
+
+---
+
+## 🧪 Run it Yourself
+
+Clone the repository and open the notebook in Jupyter:
+
+```bash
+git clone https://github.com/vaish-sm31/bitcoin-price-insights.git
+cd bitcoin-price-insights
+jupyter notebook
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Vaishnavi Shivamogga Murali
+Product Analyst | Time Series Explorer | SQL Enthusiast
+📫 Connect on LinkedIn
+
+    ⭐ If you found this helpful, star the repo or connect — I’m always up for collaboration!
