@@ -1,4 +1,4 @@
-# 📊 Bitcoin Price Insights (2012–2025)
+# 📈 EDA on Bitcoin price (2012–2025) | Time series, volatility, and market psychology
 
 An exploratory data analysis (EDA) of **13 years** of Bitcoin historical price and volume data, revealing key patterns in market behavior, volatility, and investor sentiment.
 
